@@ -1,0 +1,248 @@
+
+<div class="two-columns-grid">
+    <div><h2>Blinded</h2>
+<ul>
+<li>A blinded creature can’t see and automatically fails any&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability check</a>&nbsp;that requires sight.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>, and the creature’s attack rolls have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>.</li>
+</ul>
+<h2>Charmed</h2>
+<ul>
+<li>A charmed creature can’t&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_21">attack</a>&nbsp;the charmer or target the charmer with harmful abilities or magical effects.</li>
+<li>The charmer has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>&nbsp;on any&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability check</a>&nbsp;to interact socially with the creature.</li>
+</ul>
+<h2>Deafened</h2>
+<ul>
+<li>A deafened creature can’t hear and automatically fails any&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability check</a>&nbsp;that requires hearing.</li>
+</ul>
+<h2>Frightened</h2>
+<ul>
+<li>A frightened creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability checks</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">attack rolls</a>&nbsp;while the source of its fear is within line of sight.</li>
+<li>The creature can’t willingly&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9">move</a>&nbsp;closer to the source of its fear.</li>
+</ul>
+<h2>Grappled</h2>
+<ul>
+<li>A grappled creature’s&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1">speed</a>&nbsp;becomes 0, and it can’t benefit from any bonus to its speed.</li>
+<li>The condition ends if the grappler is&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6">incapacitated</a>&nbsp;(see the condition).</li>
+<li>The condition also ends if an effect removes the grappled creature from the reach of the grappler or grappling effect, such as when a creature is hurled away by the&nbsp;<em><a href="https://roll20.net/compendium/dnd5e/Thunderwave?expansion=34047#content">thunderwave</a></em>&nbsp;spell.</li>
+</ul>
+<h2>Incapacitated</h2>
+<ul>
+<li>An incapacitated creature can’t take&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_20">actions</a>&nbsp;or&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_8">reactions</a>.</li>
+</ul>
+<h2>Invisible</h2>
+<ul>
+<li>An invisible creature is impossible to see without the aid of magic or a special sense. For the purpose of&nbsp;<a href="https://roll20.net/compendium/dnd5e/Ability%20Scores?expansion=34047#toc_22">hiding</a>, the creature is heavily obscured. The creature’s location can be detected by any noise it makes or any tracks it leaves.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>, and the creature’s attack rolls have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>.</li>
+</ul>
+<h2>Paralyzed</h2>
+<ul>
+<li>A paralyzed creature is&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6">incapacitated</a>&nbsp;(see the condition) and can’t move or speak.</li>
+<li>The creature automatically fails&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_12">Strength</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17">Dexterity</a>&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a>.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>.</li>
+<li>Any&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_21">attack</a>&nbsp;that hits the creature is a&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_49">critical hit</a>&nbsp;if the attacker is within 5 feet of the creature.</li>
+</ul>
+<h2>Petrified</h2>
+<ul>
+<li>A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.</li>
+<li>The creature is&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6">incapacitated</a>&nbsp;(see the condition), can’t move or speak, and is unaware of its surroundings.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>.</li>
+<li>The creature automatically fails&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_12">Strength</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17">Dexterity</a>&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a>.</li>
+<li>The creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_51">resistance</a>&nbsp;to all&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_46">damage</a>.</li>
+<li>The creature is immune to&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Poisons?expansion=34047#content">poison</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Diseases?expansion=34047#content">disease</a>, although a poison or disease already in its system is suspended, not neutralized.</li>
+</ul>
+<h2>Poisoned</h2>
+<ul>
+<li>A poisoned creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">attack rolls</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability checks</a>.</li>
+</ul>
+<h2>Prone</h2>
+<ul>
+<li>A prone creature’s only&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#content">movement</a>&nbsp;option is to&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_5">crawl</a>, unless it stands up and thereby ends the condition.</li>
+<li>The creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">attack rolls</a>.</li>
+<li>An&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">attack roll</a>&nbsp;against the creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>&nbsp;if the attacker is within 5 feet of the creature. Otherwise, the attack roll has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>.</li>
+</ul>
+<h2>Restrained</h2>
+<ul>
+<li>A restrained creature’s&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1">speed</a>&nbsp;becomes 0, and it can’t benefit from any bonus to its speed.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>, and the creature’s attack rolls have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>.</li>
+<li>The creature has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17">Dexterity</a>&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a>.</li>
+</ul>
+<h2>Stunned</h2>
+<ul>
+<li>A stunned creature is&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6">incapacitated</a>&nbsp;(see the condition), can’t&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9">move</a>, and can speak only falteringly.</li>
+<li>The creature automatically fails&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_12">Strength</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17">Dexterity</a>&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a>.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>.</li>
+</ul>
+<h2>Unconscious</h2>
+<ul>
+<li>An unconscious creature is&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_6">incapacitated</a>&nbsp;(see the condition), can’t&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_9">move</a>&nbsp;or speak, and is unaware of its surroundings</li>
+<li>The creature drops whatever it’s holding and falls&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Conditions?expansion=34047#toc_11">prone</a>.</li>
+<li>The creature automatically fails&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_12">Strength</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_17">Dexterity</a>&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a>.</li>
+<li><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">Attack rolls</a>&nbsp;against the creature have&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">advantage</a>.</li>
+<li>Any&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_21">attack</a>&nbsp;that hits the creature is a&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_49">critical hit</a>&nbsp;if the attacker is within 5 feet of the creature.</li>
+</ul>
+<h2>Exhaustion</h2>
+<p>Some special abilities and environmental hazards, such as starvation and the long-­term effects of freezing or scorching temperatures, can lead to a special condition called exhaustion. Exhaustion is measured in six levels. An effect can give a creature one or more levels of exhaustion, as specified in the effect’s description.</p>
+<p>Exhaustion Effects</p>
+<div class="table-wrapper"><table><thead><tr><th>Level</th><th>Effect</th></tr></thead><tbody><tr><td>1</td><td><a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">Disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability checks</a></td></tr><tr><td>2</td><td><a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1">Speed</a>&nbsp;halved</td></tr><tr><td>3</td><td><a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">Disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_32">attack rolls</a>&nbsp;and&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_35">saving throws</a></td></tr><tr><td>4</td><td><a href="https://roll20.net/compendium/dnd5e/Rules:Combat?expansion=34047#toc_47">Hit point</a>&nbsp;maximum halved</td></tr><tr><td>5</td><td><a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1">Speed</a>&nbsp;reduced to 0</td></tr><tr><td>6</td><td>Death</td></tr></tbody></table></div>
+<p>If an already exhausted creature suffers another effect that causes exhaustion, its current level of exhaustion increases by the amount specified in the effect’s description.</p>
+<p>A creature suffers the effect of its current level of exhaustion as well as all lower levels. For example, a creature suffering level 2 exhaustion has its&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Movement?expansion=34047#toc_1">speed</a>&nbsp;halved and has&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_2">disadvantage</a>&nbsp;on&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Ability%20Scores?expansion=34047#toc_4">ability checks</a>.</p>
+<p>An effect that removes exhaustion reduces its level as specified in the effect’s description, with all exhaustion effects ending if a creature’s exhaustion level is reduced below 1.</p>
+<p>Finishing a&nbsp;<a href="https://roll20.net/compendium/dnd5e/Rules:Resting?expansion=34047#toc_2">long rest</a>&nbsp;reduces a creature’s exhaustion level by 1, provided that the creature has also ingested some food and drink.</p></div>
+    <div><h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#hluchy">Hluchý</a></h4>
+<ul>
+<li>Hluchý tvor neslyší a automaticky neuspěje v ověřeních vlastností, která vyžadují sluch.</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#lezici-srazeny">Ležící (sražený)</a></h4>
+<ul>
+<li>
+<p>Dokud se ležící tvor nepostaví a tím neukončí tento stav, jeho jediný druh pohybu je lezení.</p>
+</li>
+<li>
+<p>Tvor má nevýhodu k hodům na útok.</p>
+</li>
+<li>
+<p>Hod na útok proti ležícímu tvorovi má výhodu, je-li útočník od ležícího tvora do 1 sáhu. V opačném případě má hod na útok nevýhodu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#neschopny">Neschopný</a></h4>
+<ul>
+<li>Neschopný tvor nemůže provádět akce ani reakce.</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#neviditelny">Neviditelný</a></h4>
+<ul>
+<li>
+<p>Neviditelného tvora není možné vidět bez pomoci magie či zvláštního smyslu. Z hlediska schování je tvor hustě zahalený. Polohu tvora je možné odhalit podle hluku, který způsobuje, či stop, které zanechává.</p>
+</li>
+<li>
+<p>Hody na útok proti neviditelnému tvorovi mají nevýhodu, a tvorovy hody na útok mají výhodu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#ochromeny">Ochromený</a></h4>
+<ul>
+<li>
+<p>Ochromený tvor je neschopný (viz daný stav), nemůže se pohnout a mluvit může pouze zajíkavě.</p>
+</li>
+<li>
+<p>Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.</p>
+</li>
+<li>
+<p>Hody na útok proti ochromenému tvorovi mají výhodu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#otraveny">Otrávený</a></h4>
+<ul>
+<li>Otrávený tvor má nevýhodu k hodům na útok a ověřením vlastností.</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#paralyzovany">Paralyzovaný</a></h4>
+<ul>
+<li>
+<p>Paralyzovaný tvor je neschopný (viz daný stav) a nemůže se hýbat ani mluvit.</p>
+</li>
+<li>
+<p>Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.</p>
+</li>
+<li>
+<p>Útoky proti tvorovi mají výhodu.</p>
+</li>
+<li>
+<p>Každý útok, který zasáhne tvora, je kritický útok, je-li útočník do 1 sáhu od paralyzovaného tvora.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#slepy">Slepý</a></h4>
+<ul>
+<li>
+<p>Slepý tvor nevidí a automaticky neuspěje v ověřeních vlastností, která vyžadují zrak.</p>
+</li>
+<li>
+<p>Hody na útok proti slepému tvorovi mají výhodu, a tvorovy hody na útok mají nevýhodu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#uchvaceny">Uchvácený</a></h4>
+<ul>
+<li>
+<p>Rychlost uchváceného tvora se mění na 0 a nemá prospěch z žádného bonusu k rychlosti.</p>
+</li>
+<li>
+<p>Stav skončí, stane-li se uchvatitel neschopný (viz daný stav).</p>
+</li>
+<li>
+<p>Stav také skončí, vyjme-li nějaký účinek uchváceného tvora z dosahu uchvatitele či uchvacujícího účinku, například když je tvor vržen pryč kouzlem&nbsp;<em>hromová vlna</em>.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#v-bezvedomi">V bezvědomí</a></h4>
+<ul>
+<li>
+<p>Tvor je neschopný (viz daný stav), nemůže se hýbat ani mluvit a není si vědom svého okolí.</p>
+</li>
+<li>
+<p>Tvor pustí cokoliv, co právě drží v ruce, a spadne na zem.</p>
+</li>
+<li>
+<p>Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.</p>
+</li>
+<li>
+<p>Hody na útok proti tvorovi v bezvědomí mají výhodu.</p>
+</li>
+<li>
+<p>Útok, který zasáhne tvora v bezvědomí, způsobí kritický zásah, je-li útočník od tvora do 1 sáhu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#vystraseny">Vystrašený</a></h4>
+<ul>
+<li>
+<p>Vystrašený tvor má nevýhodu k ověřením vlastností a hodům na útok, když zdroj jeho strachu je v jeho výhledu.</p>
+</li>
+<li>
+<p>Tvor se nemůže dobrovolně pohnout blíže ke zdroji svého strachu.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#zadrzeny">Zadržený</a></h4>
+<ul>
+<li>
+<p>Rychlost zadrženého tvora se změní na 0 a nemá žádný užitek z bonusů k rychlosti.</p>
+</li>
+<li>
+<p>Hody na útok proti zadrženému tvorovi mají výhodu, a tvorovy hody na útok mají nevýhodu.</p>
+</li>
+<li>
+<p>Tvor má nevýhodu k záchranným hodům na Obratnost.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#zkamenely">Zkamenělý</a></h4>
+<ul>
+<li>
+<p>Zkamenělý tvor se přemění do pevné neživé látky (obvykle kamene), spolu se všemi svými nemagickými předměty, které drží nebo nese. Jeho váha se zdesetinásobí a tvor přestane stárnout.</p>
+</li>
+<li>
+<p>Tvor je neschopný (viz daný stav), nemůže se hýbat ani mluvit a není si vědom svého okolí.</p>
+</li>
+<li>
+<p>Hody na útok proti zkamenělému tvorovi mají výhodu.</p>
+</li>
+<li>
+<p>Tvor automaticky neuspěje v záchranných hodech na Sílu a Obratnost.</p>
+</li>
+<li>
+<p>Tvor je odolný vůči všem zraněním.</p>
+</li>
+<li>
+<p>Tvor je imunní vůči jedu a nemoci, ale jedy či nemoci, které už v něm jsou, se nezneutralizují, jen pozastaví.</p>
+</li>
+</ul>
+<h4><a href="https://dnd5esrd.d20.cz/prirucka-hrace/dodatek-a.html#zmameny">Zmámený</a></h4>
+<ul>
+<li>
+<p>Zmámený tvor nemůže zaútočit na toho, kdo ho zmámil, ani ho zacílit zraňujícími schopnostmi či magickými účinky.</p>
+</li>
+<li>
+<p>Tvor, který způsobil tvorovo zmámení, má výhodu ke všem ověřením vlastností vztahujícím se k společenské interakci se zmámeným tvorem.</p>
+</li>
+</ul>
+<p>Únava</p>
+<p>Některé zvláštní schopnosti a nástrahy prostředí, například hladovění a dlouhodobé účinky mrazivých či velmi horkých teplot, mohou vést ke zvláštnímu stavu zvanému únava. Únava se měří v šesti stupních. Účinek může dát tvorovi jednu čí více stupňů únavy, jak je uvedeno v popisu účinku.</p>
+<div class="table-wrapper"><table><thead><tr><th>Stupeň</th><th>Účinek</th></tr></thead><tbody><tr><td>1</td><td>Nevýhoda k ověřením vlastností</td></tr><tr><td>2</td><td>Snížení rychlosti na polovinu</td></tr><tr><td>3</td><td>Nevýhoda k hodům na útok a záchranným hodům</td></tr><tr><td>4</td><td>Snížení maxima životů na polovinu</td></tr><tr><td>5</td><td>Snížení rychlosti na 0</td></tr><tr><td>6</td><td>Smrt</td></tr></tbody></table></div>
+<p>Pokud již unavený tvor utrpí další účinek způsobující únavu, jeho aktuální stupeň únavy vzroste o množství dané popisem účinku.</p>
+<p>Tvor trpí účinkem svého aktuálního stupně únavy, stejně jako všemi nižšími stupni. Například tvor, který trpí 2. stupněm únavy, má poloviční rychlost a nevýhodu k ověřením vlastností.</p>
+<p>Účinek, který odstraňuje únavu, snižuje její stupeň, jak je uvedeno v popisu účinku. Všechny účinky únavy skončí, sníží-li se tvorův stupeň únavy pod 1.</p>
+<p>Důkladný odpočinek sníží tvorův stupeň únavy o 1, pokud se tvor také nají a napije. Vzkříšení z mrtvých také sníží tvorův stupeň únavy o 1.</p></div>
+</div>
