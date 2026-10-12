@@ -1,1 +1,1 @@
-![[Hromobiti_logo.png]]
+![[20260916_153330000_iOS.png]]
