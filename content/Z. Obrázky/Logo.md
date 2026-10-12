@@ -1,1 +1,1 @@
-![[20260916_153330000_iOS.png]]
+![[Hromobiti_Poster_small.png]]
