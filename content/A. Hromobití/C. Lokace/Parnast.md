@@ -1,1 +1,2 @@
-Město
+Parnast byl založen před stovkami let. Kříží se zde Černá Cesta a <abbr title="Dawn Pass Trail">Průsmyk Úsvitu</abbr>, cesta skrze <abbr title="Greypeak Mountains">Hory Šedovrcholy</abbr>. Byl obehnán zdmi a chránil ho Zhentarimský Lord Amarandaris. Po jeho smrti však zdi nebyly udržovány a cechovní dům Zhentarimského cechu byl uzavřen.
+Město se od té doby postupně přesunulo na jih mimo zdi, které nyní mohou sloužit jako kemp pro projíždějící karavany.
