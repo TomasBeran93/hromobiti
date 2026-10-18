@@ -1,1 +1,1 @@
-![[Sword-Coast-Map_HighRes_Current.png]]
+![[Sword-Coast-Map_HighRes_Current 1.png]]
