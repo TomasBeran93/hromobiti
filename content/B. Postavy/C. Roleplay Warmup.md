@@ -1,11 +1,11 @@
-1. **What did your character have for breakfast?**
+1. ~~**What did your character have for breakfast?**~~
     - This has always, and likely will always, be the first RP warmup question I ask in a campaign. It goes back to my filmmaking days and needing people to talk so we can balance the microphone levels because it’s such an easy question to think and talk about.
 2. **Is your character an early bird or a night owl?**
 3. **What is your favorite character’s comfort food?**
 4. **Do you have a song that you feel embodies your character? Either as a theme, or as a general vibe.**
     - I like to ask this one early in the campaign so I can try to find an instrumental version of everyone’s songs, which I can either play during notable character moments or when they’ve completed their personal quests.
 5. **If your character was a food dish, what would they be?**
-6. **What was your character’s last dream about?**
+6. ~~**What was your character’s last dream about?**~~
     - This is a perfect question for when your last session ended with everyone going to sleep because now the characters get to immediately respond to those dreams. It’s also one of those questions you can reuse multiple times.
 7. **What current possession has your character owned the longest?**
 8. **What was your character’s favorite toy as a child?**
